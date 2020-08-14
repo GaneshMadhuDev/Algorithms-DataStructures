@@ -22,3 +22,13 @@
     return sumOfArrays;
 
   }
+
+
+  /** TESTING
+      * GIVEN ARRAY = [[3,5,6], [1], [2, 9]]
+      *
+      * sumOfGivenArrays([[3,5,6], [1], [2, 9]])
+      *
+      * EXPECTED RESULT  26
+      *
+      */
