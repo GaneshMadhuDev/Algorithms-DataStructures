@@ -20,3 +20,16 @@
     return actualSum - totalSumOfElementsInArray;
 
  }
+
+
+
+
+
+ /** TESTING
+     * GIVEN ARRAY = [4, 5, 3, 1]
+     *
+     * findMissingNumberInGivenArray([4, 5, 3, 1])
+     *
+     * EXPECTED RESULT    2
+     *
+     */
