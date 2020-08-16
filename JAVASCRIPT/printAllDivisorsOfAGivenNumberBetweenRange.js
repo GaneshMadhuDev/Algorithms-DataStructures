@@ -2,3 +2,10 @@
  * PROGRAM TO PRINT ALL NUMBERS BETWEEN AND GIVEN LOW AND HIGH RANGE AND DIVISIBLE BY GIVEN NUMBER
  *
  */
+
+
+ function printAllDivisorsOfAGivenNUmberBetweenRange() {
+
+
+
+ }
