@@ -29,3 +29,27 @@
         return false;
 
   }
+
+
+  /*** TESTING
+      * GIVEN ARRAY = [3, 5, 3, 6, 2, 5, 7]
+      *
+      * SumOfTwoNumbers = 8
+      *
+      * isSumExistsInGivenArray([3, 5, 3, 6, 2, 5, 7], 8)
+      *
+      * EXPECTED RESULT      TRUE
+      *
+      */
+
+
+  /*** TESTING
+        * GIVEN ARRAY = [3, 5, 3, 6, 2, 5, 7]
+        *
+        * SumOfTwoNumbers = 18
+        *
+        * isSumExistsInGivenArray([3, 5, 3, 6, 2, 5, 7], 18)
+        *
+        * EXPECTED RESULT      FALSE
+        *
+        */
