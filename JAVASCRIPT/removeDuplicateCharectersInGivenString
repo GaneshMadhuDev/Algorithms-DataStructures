@@ -34,7 +34,7 @@
  /** TESTING
       * GIVEN STRING = "GANESH MADHU"
       *
-      * findMissingNumberInGivenArray("GANESH MADHU")
+      * removeDuplicateCharsInGivenString("GANESH MADHU")
       *
       * EXPECTED RESULT    GANESHMDHU
       * A IS DUPLICATE CHAR AND IT IS REMOVED ONE TIME

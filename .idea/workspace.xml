@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6a0a58c5-db1b-4330-81b7-928ceee04af3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JAVASCRIPT/oddNumbersSumInGivenArray.js" afterPath="$PROJECT_DIR$/JAVASCRIPT/oddNumbersSumInGivenArray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString" afterPath="$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,8 +39,8 @@
       <file leaf-file-name="removeDuplicateCharectersInGivenString" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="510">
+              <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -47,8 +49,8 @@
       <file leaf-file-name="oddNumbersSumInGivenArray.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JAVASCRIPT/oddNumbersSumInGivenArray.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state relative-caret-position="420">
+              <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -114,8 +116,8 @@
         <option value="$PROJECT_DIR$/JAVA/WordsReverse.java" />
         <option value="$PROJECT_DIR$/JAVASCRIPT/printAllDivisorsOfAGivenNumberBetweenRange.js" />
         <option value="$PROJECT_DIR$/JAVA/RemoveDuplicateCharsInGivenString.java" />
-        <option value="$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString" />
         <option value="$PROJECT_DIR$/JAVASCRIPT/oddNumbersSumInGivenArray.js" />
       </list>
     </option>
@@ -757,25 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JAVASCRIPT/findMissingNumberInArray.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -784,10 +767,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="435">
+            <caret line="29" column="67" lean-forward="false" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JAVASCRIPT/oddNumbersSumInGivenArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="420">
+          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
           <folding />
         </state>
       </provider>

@@ -19,3 +19,12 @@
     return sum;
 
  }
+
+
+ /** TESTING
+       * GIVEN ARRAY = [3, 5, 1, 2, 8]
+       *
+       * sumOfAllOddNumbersInArray([3, 5, 1, 2, 8])
+       *
+       * EXPECTED RESULT    9
+       */
