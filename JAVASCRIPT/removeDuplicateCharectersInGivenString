@@ -3,9 +3,6 @@
  *
  */
 
-
-
-
  function removeDuplicateCharsInGivenString(givenString) {
 
        let stringLength = givenString.length;
@@ -32,3 +29,13 @@
        return newStringArray.join('');
 
  }
+
+
+ /** TESTING
+      * GIVEN STRING = "GANESH MADHU"
+      *
+      * findMissingNumberInGivenArray("GANESH MADHU")
+      *
+      * EXPECTED RESULT    GANESHMDHU
+      * A IS DUPLICATE CHAR AND IT IS REMOVED ONE TIME
+      */
