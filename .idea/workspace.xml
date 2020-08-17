@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0a58c5-db1b-4330-81b7-928ceee04af3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVA/RemoveDuplicateCharsInGivenString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString" afterPath="$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,21 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="removeDuplicateCharectersInGivenString" pinned="false" current-in-tab="false">
+      <file leaf-file-name="removeDuplicateCharectersInGivenString" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="180">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveDuplicateCharsInGivenString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemoveDuplicateCharsInGivenString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JAVA/RemoveDuplicateCharsInGivenString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -108,14 +106,14 @@
         <option value="$PROJECT_DIR$/JAVA/WordsReverse.java" />
         <option value="$PROJECT_DIR$/JAVASCRIPT/printAllDivisorsOfAGivenNumberBetweenRange.js" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString" />
         <option value="$PROJECT_DIR$/JAVA/RemoveDuplicateCharsInGivenString.java" />
+        <option value="$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
-    <option name="y" value="36" />
+    <option name="x" value="42" />
+    <option name="y" value="23" />
     <option name="width" value="1251" />
     <option name="height" value="777" />
   </component>
@@ -463,7 +461,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="36" width="1251" height="777" extended-state="0" />
+    <frame x="42" y="23" width="1251" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -712,21 +710,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JAVA/RemoveDuplicateCharsInGivenString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASCRIPT/removeDuplicateCharectersInGivenString">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>

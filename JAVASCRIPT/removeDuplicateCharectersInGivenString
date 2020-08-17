@@ -2,3 +2,33 @@
  * PROGRAM TO REMOVE THE DUPLICATE CHARS IN A GIVEN STRING
  *
  */
+
+
+
+
+ function removeDuplicateCharsInGivenString(givenString) {
+
+       let stringLength = givenString.length;
+       let object = {};
+       let newStringArray = [];
+       let eachChar;
+
+
+       for (let index = 0; index < stringLength; index++) {
+            eachChar = givenString[index];
+            if () {
+                object[eachChar]++;
+            } else {
+                object[eachChar] = 1;
+            }
+       }
+
+       for (let key in object) {
+            if (object[key] === 1) {
+                newStringArray.push(key)
+            }
+       }
+
+       return newStringArray.join('');
+
+ }
