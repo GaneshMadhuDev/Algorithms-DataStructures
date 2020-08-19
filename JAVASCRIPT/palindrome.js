@@ -22,6 +22,11 @@
   }
 
 
+  function isStringIsPalindrome2(givenString) {
+      return givenString == givenString.split('').reverse().join('');
+  }
+
+
   /** TESTING
         * GIVEN STRING = "GANESHMADHU"
         *
