@@ -43,3 +43,12 @@ function reverse (givenString) {
    return givenString.join('');
 
  }
+
+
+ /** TESTING
+        * GIVEN STRING = "GANESH MADHU";
+        *
+        * reverse("GANESH MADHU")
+        *
+        * EXPECTED RESULT    "UHDAMHSENAG"
+        */
