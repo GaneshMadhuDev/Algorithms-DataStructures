@@ -3,6 +3,9 @@
 1.JAVASCRIPT 
 
 1.FINDING THE DUPLICATES EXISTS IN AN GIVEN ARRAY <br />
+
+![alt text](https://github.com/GaneshMadhuDev/Algorithms-DataStructures/blob/master/JAVASCRIPT/Test/ScreenShots/isDuplicatesExists.png?raw=true)
+
 2.FINDING THE DUPLICATES AND THE NUMBER OF OCCURRENCES IN AN GIVEN ARRAY <br />
 3.PROGRAM TO CHECK  THE GIVEN STRING IS PALINDROME <br />
 4.PROGRAM TO REVERSE THE GIVEN STRING <br />
