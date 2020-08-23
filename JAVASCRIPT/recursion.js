@@ -29,3 +29,27 @@
  }
 
 
+
+ /** TESTING USING LOOP
+     * GIVEN NUMBER = 5
+     *
+     * GIVEN RANGE = 3
+     *
+     * power(5, 3)
+     *
+     * EXPECTED RESULT    125
+     *
+     */
+
+
+
+    /** TESTING USING RECURSION
+      * GIVEN NUMBER = 5
+      *
+      * GIVEN RANGE = 3
+      *
+      * power(5, 3)
+      *
+      * EXPECTED RESULT    125
+      *
+      */
