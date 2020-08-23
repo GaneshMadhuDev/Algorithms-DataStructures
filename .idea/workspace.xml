@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a0a58c5-db1b-4330-81b7-928ceee04af3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JAVASCRIPT/Test/mapVSForEach.js" afterPath="$PROJECT_DIR$/JAVASCRIPT/Test/mapVSForEach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASCRIPT/mapVSForEach.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JAVASCRIPT/reverseString.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="printAllDivisorsOfAGivenNumberBetweenRange.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVASCRIPT/printAllDivisorsOfAGivenNumberBetweenRange.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="findMissingNumberInArray.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JAVASCRIPT/findMissingNumberInArray.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,11 +65,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mapVSForEach.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mapVSForEach.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JAVASCRIPT/Test/mapVSForEach.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="40" column="48" lean-forward="true" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+            <state relative-caret-position="150">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="findingDuplicatesInGivenArray.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAVASCRIPT/findingDuplicatesInGivenArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverseString.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JAVASCRIPT/reverseString.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapVSForEach.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JAVASCRIPT/mapVSForEach.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -92,26 +113,6 @@
               <folding>
                 <element signature="n#!!doc" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sumOfManyArrays.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVASCRIPT/sumOfManyArrays.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wordsReverse.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JAVASCRIPT/wordsReverse.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="42" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -226,6 +227,11 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JAVASCRIPT" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -750,13 +756,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JAVASCRIPT/findingDuplicatesInGivenArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JAVA/FindingDuplicatesInGivenArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -896,6 +895,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASCRIPT/Test/mapVSForEach.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASCRIPT/mapVSForEach.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JAVASCRIPT/Test/reverseString.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
@@ -904,10 +919,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JAVASCRIPT/Test/mapVSForEach.js">
+    <entry file="file://$PROJECT_DIR$/JAVASCRIPT/findingDuplicatesInGivenArray.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="40" column="48" lean-forward="true" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVASCRIPT/reverseString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
