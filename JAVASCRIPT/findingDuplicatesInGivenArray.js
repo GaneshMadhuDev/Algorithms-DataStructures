@@ -15,10 +15,14 @@
             elements[givenArray[index]] = true;
 
         } else {
+
           return true;
+
         }
 
      }
+
+     return false;
 
   }
 
