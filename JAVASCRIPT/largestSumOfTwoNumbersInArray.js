@@ -46,3 +46,13 @@
    return bigNumber + secondBigNumber;
 
   }
+
+
+  /** TESTING
+      * GIVEN ARRAY = [3, 5, 4, 6, 2, 8, 7]
+      *
+      * largestSumOfTwoNumbersInArray([3, 5, 4, 6, 2, 8, 7])
+      *
+      * EXPECTED RESULT    8, 7
+      *
+      */
