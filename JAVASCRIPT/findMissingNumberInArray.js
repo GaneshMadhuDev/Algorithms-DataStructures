@@ -9,9 +9,9 @@
 
     let actualSum = (arrayLength + 1) * arrayLength / 2;
 
-    let totalSumOfElementsInArray;
+    let totalSumOfElementsInArray = 0;
 
-    for (let index = 0; index < arrayLength; index++) {
+    for (let index = 0; index < givenArray.length; index++) {
 
         totalSumOfElementsInArray += givenArray[index];
 
