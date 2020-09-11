@@ -42,5 +42,5 @@ function merge(intervals) {
     if (i === intervals.length - 2) ans.push([start, end]);
   }
   return ans;
-  
+
 }
