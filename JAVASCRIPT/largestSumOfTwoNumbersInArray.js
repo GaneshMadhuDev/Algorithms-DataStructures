@@ -37,7 +37,7 @@
       }
      else if (givenArray[index] > secondBigNumber) {
 
-        secondBigNumber = arr[index];
+        secondBigNumber = givenArray[index];
 
      }
 
